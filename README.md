@@ -1,0 +1,1 @@
+# Spotify UI Clone 🎶 A high-fidelity landing page clone of the Spotify Web Player built with pure HTML and CSS. This project focuses on replicating complex layouts, custom scrollbars, and the signature "Dark Mode" aesthetic of the Spotify interface.
